@@ -1,12 +1,3 @@
-# pip install fastapi
-# pip install uvicorn
-# pip install python-multipart
-# pip install opencv-python
-# pip install pygame
-# pip install google.generativeai
-# pip install SpeechRecognition
-# pip install gtts
-
 import os
 import sys
 import threading
